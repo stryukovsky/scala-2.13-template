@@ -4,3 +4,5 @@ project/target/
 project/.bloop/
 project/project/
 project/.bloop/
+target
+target/
